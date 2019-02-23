@@ -1,0 +1,10 @@
+.list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.note-thumb {
+  width: 30%;
+  max-height: 25vh;
+  overflow: hidden;
+}
